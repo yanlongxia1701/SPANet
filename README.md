@@ -8,5 +8,6 @@ defect categories with real-world challenges. To achieve accurate defect detecti
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Introduction.png)
 
 ### Detection hardware and workflow visualization
-We provide a visualized workflow of the proposed system 
+We provide a physical diagram of the proposed system and the visualized workflow of the proposed system.
+![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/workflow.jpg)
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Hardware.jpg)
